@@ -1,0 +1,20 @@
+{
+  "name": "quantum-shadows",
+  "version": "1.0.0",
+  "homepage": "https://github.com/nickpfisterer/quantum-shadows",
+  "authors": [
+    "Nick Pfisterer <hello@nickp.co>"
+  ],
+  "description": "Use the drop shadows from Google's Material Design spec in your Sass projects.",
+  "main": "_quantum-shadows.scss",
+  "keywords": [
+    "css",
+    "scss",
+    "sass",
+    "shadows"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "sache.json"
+  ]
+}
