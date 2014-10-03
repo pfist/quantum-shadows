@@ -1,0 +1,27 @@
+// ----------------------------------------
+// Quantum Shadows 1.0.0
+// by Nick Pfisterer
+// ----------------------------------------
+
+@mixin drop-shadow($depth) {
+  @if $depth == 1 {
+    box-shadow: 0 1.5px 3px rgba(black, 0.24),
+                0 3px 8px rgba(black, 0.05);
+  }
+  @if $depth == 2 {
+    box-shadow: 0 4px 7px rgba(black, 0.23),
+                0 8px 25px rgba(black, 0.05);
+  }
+  @if $depth == 3 {
+    box-shadow: 0 7px 10px rgba(black, 0.30),
+                0 10px 50px rgba(black, 0.12);
+  }
+  @if $depth == 4 {
+    box-shadow: 0 10px 15px rgba(black, 0.28),
+                0 15px 60px rgba(black, 0.18);
+  }
+  @if $depth == 5 {
+    box-shadow: 0 16px 20px rgba(black, 0.29),
+                0 20px 65px rgba(black, 0.18);
+  }
+}
