@@ -27,3 +27,9 @@ Right now, it's just a simple mixin away. The mixin takes a value between 1 and 
 That's all there is to it. I am considering adding more functionality to this in the future, but for now I really just wanted an easy way to use the Material Design drop shadows in my Sass projects.
 
 If you find any bugs or have suggestions for a future version, please feel free to [submit an issue](https://github.com/nickpfisterer/quantum-shadows/issues).
+
+## Changelog
+**v1.0.0** (10-02-2014):
+* First release
+* Bower support
+* Discoverable on [Sache](http://sache.in)
