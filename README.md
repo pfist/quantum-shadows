@@ -3,6 +3,8 @@
 
 Use the drop shadows from Google's [Material Design](http://www.google.com/design/spec/) spec in your Sass projects.
 
+[Codepen Demo](http://codepen.io/nickpfisterer/details/gnJhA/)
+
 ## Installation
 * Install via [Bower](http://bower.io) ```bower install quantum-shadows --save```
 * [Download](https://github.com/nickpfisterer/quantum-shadows) and add to your project manually
