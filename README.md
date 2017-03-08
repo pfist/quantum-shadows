@@ -3,11 +3,11 @@
 
 Use the drop shadows from Google's [Material Design](http://www.google.com/design/spec/) spec in your Sass projects.
 
-[Codepen Demo](http://codepen.io/nickpfisterer/details/gnJhA/)
+[Codepen Demo](http://codepen.io/nkpfstr/pen/gnJhA)
 
 ## Installation
 * Install via [Bower](http://bower.io) ```bower install quantum-shadows --save```
-* [Download](https://github.com/nickpfisterer/quantum-shadows) and add to your project manually
+* [Download](https://github.com/nkpfstr/quantum-shadows) and add to your project manually
 
 ## Usage
 > NOTE: Quantum Shadows assumes you already have a solution for dealing with prefixes.
@@ -28,7 +28,7 @@ Right now, it's just a simple mixin away. The mixin takes a value between 1 and 
 
 That's all there is to it. I am considering adding more functionality to this in the future, but for now I really just wanted an easy way to use the Material Design drop shadows in my Sass projects.
 
-If you find any bugs or have suggestions for a future version, please feel free to [submit an issue](https://github.com/nickpfisterer/quantum-shadows/issues).
+If you find any bugs or have suggestions for a future version, please feel free to [submit an issue](https://github.com/nkpfstr/quantum-shadows/issues).
 
 ## Changelog
 **v1.0.0** (10-02-2014):
